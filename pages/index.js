@@ -1,7 +1,8 @@
 function Home() {
   return (
     <h1>
-      Beauty and strength, leaping laughter and delicious languor, force and fire, are of us.{" "}
+      Beauty and strength, leaping laughter and delicious languor, force and
+      fire, are of us.{" "}
       <svg
         viewBox="0 0 194.21 221"
         style={{
